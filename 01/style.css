@@ -1,0 +1,17 @@
+body{
+    background-color: white;
+}
+h1{
+    color: black;
+    font-family: sans-serif;
+}
+a:hover{
+    color: yellow;
+}
+a{
+    color: black;
+}
+
+.sem-sublinhado {
+    text-decoration: none;
+}
